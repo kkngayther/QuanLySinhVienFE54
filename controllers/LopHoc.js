@@ -4,4 +4,6 @@ var lopHoc = function(){
     this.danhSachSinhVien = function(){
         return this.danhSachSinhVien;
     }
+    this.mota2 ='test';
+    
 }
